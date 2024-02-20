@@ -4,7 +4,7 @@
 
 ## Acerca de mí
 
-Soy un apasionado del mundo tecnológico, especialmente del desarrollo de software. Con más de 10 años de experiencia como profesor en los grados superiores de DAM y DAW, me dedico a compartir mis conocimientos y experiencias con mis estudiantes, ayudándoles a adquirir las habilidades necesarias para destacar en la industria del desarrollo de aplicaciones.
+Soy un apasionado del mundo tecnológico, especialmente del desarrollo de software. Con más de 10 años de experiencia en el sector y ahora como profesor en los grados superiores de DAM y DAW, me dedico a compartir mis conocimientos y experiencias con mis estudiantes, ayudándoles a adquirir las habilidades necesarias para destacar en la industria del desarrollo de aplicaciones.
 
 ## Áreas de Interés
 
