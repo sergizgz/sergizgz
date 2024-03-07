@@ -1,4 +1,4 @@
-# ¡Hola! Soy Sergio 👋👋
+# ¡Hola! Soy Sergio 👋👋👋
 
 ¡Bienvenido/a a mi repositorio en GitHub! Soy Sergio, profesor de los grados superiores de Desarrollo de Aplicaciones Multiplataforma (DAM) y Desarrollo de Aplicaciones Web (DAW). Aquí encontrarás recursos, proyectos y ejemplos relacionados con el mundo del desarrollo de software.
 
